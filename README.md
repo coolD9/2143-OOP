@@ -4,7 +4,7 @@
 #### Email: arobledo0722@my.msutexas.edu
 
 #### Image:
-<img src="" width="200">
+<img src="https://i.ibb.co/2ky51Qy/Afrochella.jpg" width="200">
 
 #### Avatar:
-<img src="https://ibb.co/m9QRpg8" width="75">
+<img src="https://i.ibb.co/pfC1q5y/Deadpool-Avatar.jpg" width="75">
