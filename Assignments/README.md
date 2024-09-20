@@ -1,5 +1,5 @@
 ## Assignments
 
-|  #  | Folder Link | Assignment Description |
-| :-: | ----------- | ---------------------- |
-|  0  | link 0      | description 0          |
+|  #  | Folder Link            | Assignment Description                 |
+| :-: | ---------------------- | -------------------------------------- |
+|  1  | [A01](Assignments/A01) | [Establishing Comms](Assignments/A01)  |
