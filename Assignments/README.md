@@ -2,4 +2,4 @@
 
 |  #  | Folder Link            | Assignment Description                 |
 | :-: | ---------------------- | -------------------------------------- |
-|  1  | [A01](Assignments/A01) | [Establishing Comms](Assignments/A01)  |
+|  1  | [A01](./A01) | [Establishing Comms](./A01)  |
